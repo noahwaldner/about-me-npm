@@ -20,7 +20,7 @@ const content = `                  ${b("Noah Waldner")}
 
 ${g("Job")}                        ${o("Frontend Engineer at Valtech")}
 
-${g("Twitter")}                    ${y("https://twitter.com/noahwaldner")}
+${g("Twitter")}                    ${y("https://twitter.com/noah_waldner")}
 ${g("GitHub")}                     ${y("https://github.com/noahwaldner")}
 ${g("Website")}                    ${y("https://waldner.dev")}
 ${g("Instagram")}                  ${y("https://instagram.com/swiss_fries")}

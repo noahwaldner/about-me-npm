@@ -33,7 +33,6 @@ ${g("Adobe Event Website")}        ${y("https://adobe.com")}
 ${g("Valyo")}                      ${y("https://valyo.ch")}
 ${g("Adobe Max & Adobe Summit")}   ${y("https://adobe.com/max")}
 ${g("Axpo")}                       ${y("https://axpo.com")}
-${g("Arxada")}                     ${y("https://arxada.com")}
 ${g("888 Productions")}            ${y("https://888productions.studio")}
 `;
 

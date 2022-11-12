@@ -18,21 +18,24 @@ const cardOptions = {
 
 const content = `                  ${b("Noah Waldner")}
 
-${g("Job")}                        ${o("Frontend Engineer at Valtech")}
+${g("Job")}                        ${o(
+  "Frontend Engineer at Digitec Galaxus AG"
+)}
 
 ${g("Twitter")}                    ${y("https://twitter.com/noah_waldner")}
 ${g("GitHub")}                     ${y("https://github.com/noahwaldner")}
-${g("Website")}                    ${y("https://waldner.dev")}
-${g("Instagram")}                  ${y("https://instagram.com/swiss_fries")}
+${g("Developer Website")}          ${y("https://waldner.dev")}
+${g("Film Website")}               ${y("https://noahwaldner.ch")}
+${g("Instagram")}                  ${y("https://instagram.com/noah_waldner")}
 ${g("LinkedIn")}                   ${y("https://linkedin.com/in/noahwaldner/")}
 
                     ${b("Featured Projects")}
 
-${g("Basler Kantonalbank")}        ${y("https://bkb.ch")}
+${g("Digiteg Galaxus")}            ${y("https://galaxus.ch")}
 ${g("Adobe Event Website")}        ${y("https://adobe.com")}
-${g("Valyo")}                      ${y("https://valyo.ch")}
-${g("Adobe Max & Adobe Summit")}   ${y("https://adobe.com/max")}
+${g("Basler Kantonalbank")}        ${y("https://bkb.ch")}
 ${g("Axpo")}                       ${y("https://axpo.com")}
+${g("Franke")}                     ${y("https://franke.com")}
 ${g("888 Productions")}            ${y("https://888productions.studio")}
 `;
 

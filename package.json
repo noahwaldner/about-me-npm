@@ -1,6 +1,6 @@
 {
   "name": "@noahwaldner/about-me",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "about me npm package",
   "main": "index.js",
   "type": "module",

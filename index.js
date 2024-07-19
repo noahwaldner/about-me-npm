@@ -18,7 +18,7 @@ const cardOptions = {
 
 const content = `                  ${b("Noah Waldner")}
 
-${g("Job")}                        ${o("Frontend Tech Lead at Frontify")}
+${g("Job")}                        ${o("Frontend Platform Lead at Frontify")}
 
 ${g("Twitter")}                    ${y("https://twitter.com/noah_waldner")}
 ${g("GitHub")}                     ${y("https://github.com/noahwaldner")}
@@ -36,7 +36,7 @@ ${g("Adobe Event Website")}        ${y("https://adobe.com")}
 ${g("Basler Kantonalbank")}        ${y("https://bkb.ch")}
 ${g("Axpo")}                       ${y("https://axpo.com")}
 ${g("Franke")}                     ${y("https://franke.com")}
-${g("888 Productions")}            ${y("https://888productions.studio")}
+${g("Flyte")}                      ${y("https://flyte.com")}  
 `;
 
 const slidesContent = ``;

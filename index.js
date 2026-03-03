@@ -18,9 +18,9 @@ const cardOptions = {
 
 const content = `                  ${b("Noah Waldner")}
 
-${g("Job")}                        ${o("Frontend Platform Lead at Frontify")}
+${g("Job")}                        ${o("Engineering Manager at Frontify")}
 
-${g("Twitter")}                    ${y("https://twitter.com/noah_waldner")}
+${g("X")}                          ${y("https://x.com/noah_waldner")}
 ${g("GitHub")}                     ${y("https://github.com/noahwaldner")}
 ${g("Developer Website")}          ${y("https://waldner.dev")}
 ${g("Film Website")}               ${y("https://noahwaldner.ch")}

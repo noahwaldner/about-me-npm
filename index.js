@@ -36,7 +36,7 @@ ${g("Adobe Event Website")}        ${y("https://adobe.com")}
 ${g("Basler Kantonalbank")}        ${y("https://bkb.ch")}
 ${g("Axpo")}                       ${y("https://axpo.com")}
 ${g("Franke")}                     ${y("https://franke.com")}
-${g("Flyte")}                      ${y("https://flyte.com")}  
+${g("Flyte")}                      ${y("https://flyte.studio")}  
 `;
 
 const slidesContent = ``;
